@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Heejin%20Ryu&fontSize=90)
-<center>
-### Hi there 👋 I'm Heejin Ryu (or Huijin Ryu) <br>
+
+<center> ### Hi there 👋 I'm Heejin Ryu (or Huijin Ryu) <br> </center>
 🌱 I’m currently learning `kotlin, Rxjava, RxAndroid, python`<br>
 📫 How to reach me: `instagram` <br>
 🔭 I’m currently studying at `mash-up & ssafy`<br>
-</center>
-**Stack**
+
+**Tech Stack**
 <br>
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
