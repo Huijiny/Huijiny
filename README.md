@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Heejin%20Ryu&fontSize=90)
 
-<center> ### Hi there 👋 I'm Heejin Ryu (or Huijin Ryu) <br> </center>
-🌱 I’m currently learning `kotlin, Rxjava, RxAndroid, python`<br>
-📫 How to reach me: `instagram` <br>
-🔭 I’m currently studying at `mash-up & ssafy`<br>
+### Hi there 👋 I'm Heejin Ryu (or Huijin Ryu)
+####🌱 I’m currently learning `kotlin, Rxjava, RxAndroid, python`
+####📫 How to reach me: `instagram`
+####🔭 I’m currently studying at `mash-up & ssafy`
 
 **Tech Stack**
 <br>
