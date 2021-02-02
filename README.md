@@ -1,5 +1,16 @@
 ### Hi there 👋
+
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+	
 [![Heejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huijiny&count_private=true&hide=issues,contribs&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Huijiny/Huijiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
