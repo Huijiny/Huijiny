@@ -1,25 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Heejin%20Ryu&fontSize=90)
-
-### Hi there 👋 
-
-<br>🌱 I’m currently learning `kotlin, Rxjava, RxAndroid, python`
-<br>📫 How to reach me: `instagram`
-<br>🔭 I’m currently studying at `mash-up & ssafy`
-
-<!--
-**Tech Stack**
+<h3 align="center"> Tech Stack</h3>
+<p  align="center">
 <br>
-![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-<br>
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
--->
-<br>
+	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a> &nbsp
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp
+	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp
+	<img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a> &nbsp
+	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp
+	<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a> &nbsp
+	<img src="https://img.shields.io/badge/VueJS-4FC08D?&style=for-the-badge&logo=Vue.js&logoColor=white"/></a> &nbsp</p>
 	
+<h3 align="center"> Hi there 👋 </h3>
+
+<p align="center">🌱 I’m currently learning <strong>kotlin, Rxjava, RxAndroid, vue.js</strong>
+<br>📫 How to reach me: <strong>instagram - heejin_i</strong>
+<br>🔭 I’m currently studying at <strong>mash-up & ssafy</strong></p>
+
 [![Heejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huijiny&count_private=true&hide=issues,contribs&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 
