@@ -13,13 +13,6 @@
 	
 <h3 align="center"> Hi there 👋 </h3>
 
-<p align="center">🌱 I’m currently learning <strong>kotlin, Rxjava, RxAndroid, vue.js</strong>
-<br>📫 How to reach me: <strong>instagram - heejin___i</strong>
-<br>🔭 I’m currently studying at <strong>mash-up & ssafy</strong></p>
-
-[![Heejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huijiny&count_private=true&hide=issues,contribs&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **Huijiny/Huijiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
